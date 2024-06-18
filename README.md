@@ -51,12 +51,12 @@ Chaque sac occupe 4 cases et peut stocker 1000 gold :
 
 Chaque sac peut stocker 1000 gold :
 ```
-60 * 1000 = 60000
+60 sacs * 1000 gold/sac = 60000 gold
 ```
 
 Le prix d'un sac est d'environ 4200 gold :
 ```
-4200 * 60 = 252000
+60 sacs * 4200 gold/sac = 252000 gold
 ```
 
 ## Acheter des stash
