@@ -84,6 +84,11 @@ Le prix d'un sac est d'environ 4200 gold :
    - 3ème stash: 5000 gold / 2400 gold = 2.083 gold/gold
    - 4ème stash: 10000 gold / 2400 gold = 4.167 gold/gold
 
+Voici les graphiques représentant le coût par gold stocké et la capacité totale de stockage pour chaque option de stockage :
+![Texte alternatif](ae99a061-94fe-4be2-ad39-ecac1edc209b.png)
+
+![Texte alternatif](53aee52b-d1a7-4cec-bb7c-1f36ccce9053.png)
+
 ### Conclusion
 
 1. **À court terme**:
