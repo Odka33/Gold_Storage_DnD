@@ -1,5 +1,7 @@
 # Stockage de gold
 
+Yo ce petit guide n'a pas vocation à poussé les joueurs à stocker plus d'or, mais juste à ne pas en perdre.
+L'or que vous stocker perd de la valeur. 
 Si les calculs ne sont pas votre tasse de thé, vous pouvez passer directement à la conclusion de ce guide.
 
 ## Table des matières
